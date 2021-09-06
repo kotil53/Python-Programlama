@@ -9,6 +9,6 @@ print(type(alan))
 cevre = 2 * pi * r
 print(type(cevre))
 
-print("Alan: "+ str(alan) + " çevre: " + str(cevre))
+print("Alan: "+ str(alan) + " çevre: " + str(cevre))18
 
 
